@@ -5,3 +5,7 @@ color
 
 dark mode added
 
+Payment Options
+Send Money
+Receive Money
+
